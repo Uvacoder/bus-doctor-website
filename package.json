@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "homepage": "https://mariamparvez.github.io/react-app",
+  "homepage": "https://doc-website-mu.vercel.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
