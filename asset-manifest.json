@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.4962995b.chunk.css",
+    "main.js": "/react-website/static/js/main.08746df3.chunk.js",
+    "main.js.map": "/react-website/static/js/main.08746df3.chunk.js.map",
+    "runtime-main.js": "/react-website/static/js/runtime-main.2b2526f9.js",
+    "runtime-main.js.map": "/react-website/static/js/runtime-main.2b2526f9.js.map",
+    "static/css/2.611dfeee.chunk.css": "/react-website/static/css/2.611dfeee.chunk.css",
+    "static/js/2.47e30378.chunk.js": "/react-website/static/js/2.47e30378.chunk.js",
+    "static/js/2.47e30378.chunk.js.map": "/react-website/static/js/2.47e30378.chunk.js.map",
+    "static/js/3.326f0461.chunk.js": "/react-website/static/js/3.326f0461.chunk.js",
+    "static/js/3.326f0461.chunk.js.map": "/react-website/static/js/3.326f0461.chunk.js.map",
+    "index.html": "/react-website/index.html",
+    "static/css/2.611dfeee.chunk.css.map": "/react-website/static/css/2.611dfeee.chunk.css.map",
+    "static/css/main.4962995b.chunk.css.map": "/react-website/static/css/main.4962995b.chunk.css.map",
+    "static/js/2.47e30378.chunk.js.LICENSE.txt": "/react-website/static/js/2.47e30378.chunk.js.LICENSE.txt",
+    "static/media/1.5ee949e1.svg": "/react-website/static/media/1.5ee949e1.svg",
+    "static/media/2.89fdaa63.svg": "/react-website/static/media/2.89fdaa63.svg",
+    "static/media/3.ad92c77a.svg": "/react-website/static/media/3.ad92c77a.svg",
+    "static/media/style.css": "/react-website/static/media/tick-icon.6da4654e.svg",
+    "static/media/appstore.292c3537.png": "/react-website/static/media/appstore.292c3537.png",
+    "static/media/blog-01.9bbda6c8.jpg": "/react-website/static/media/blog-01.9bbda6c8.jpg",
+    "static/media/blog-02.6ab82e81.jpg": "/react-website/static/media/blog-02.6ab82e81.jpg",
+    "static/media/blog-03.6c0dbed2.jpg": "/react-website/static/media/blog-03.6c0dbed2.jpg",
+    "static/media/footer-logo.40c41be2.png": "/react-website/static/media/footer-logo.40c41be2.png",
+    "static/media/googleplay.0f101371.png": "/react-website/static/media/googleplay.0f101371.png",
+    "static/media/logo.f2967192.png": "/react-website/static/media/logo.f2967192.png",
+    "static/media/slider.35189df1.png": "/react-website/static/media/slider.35189df1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b2526f9.js",
+    "static/css/2.611dfeee.chunk.css",
+    "static/js/2.47e30378.chunk.js",
+    "static/css/main.4962995b.chunk.css",
+    "static/js/main.08746df3.chunk.js"
+  ]
+}
